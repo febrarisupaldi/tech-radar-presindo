@@ -119,5 +119,11 @@
     "quadrant": "Languages & Frameworks",
     "isNew": "TRUE",
     "description": "Styling framework for future"
+  },{
+    "name": "C#",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Main language for Desktop App"
   }
 ]
