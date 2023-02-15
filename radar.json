@@ -125,5 +125,11 @@
     "quadrant": "Languages & Frameworks",
     "isNew": "FALSE",
     "description": "Main language for Desktop App"
+  },{
+    "name": ".NET",
+    "ring": "adopt",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "False",
+    "description": "software framework for C#"
   }
 ]
