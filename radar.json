@@ -129,7 +129,7 @@
     "name": ".NET",
     "ring": "adopt",
     "quadrant": "Languages & Frameworks",
-    "isNew": "False",
+    "isNew": "FALSE",
     "description": "software framework for C#"
   }
 ]
