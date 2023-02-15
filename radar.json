@@ -2,7 +2,7 @@
   {
     "name": "Composer",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "Tools",
     "isNew": "TRUE",
     "description": "Although the idea of dependency management"
   },
@@ -16,7 +16,7 @@
   {
     "name": "Git",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "Tools",
     "isNew": "FALSE",
     "description": "for control version and code management"
   },
