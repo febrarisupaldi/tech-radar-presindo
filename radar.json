@@ -138,5 +138,11 @@
     "quadrant": "Languages & Frameworks",
     "isNew": "FALSE",
     "description": "software framework for C#"
+  },{
+    "name": "Laravel Lumen",
+    "ring": "hold",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "Old API Framework"
   }
 ]
