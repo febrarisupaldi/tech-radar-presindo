@@ -131,5 +131,11 @@
     "quadrant": "Languages & Frameworks",
     "isNew": "FALSE",
     "description": "software framework for C#"
+  },{
+    "name": "Java",
+    "ring": "trial",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "False",
+    "description": "main language for android software"
   }
 ]
