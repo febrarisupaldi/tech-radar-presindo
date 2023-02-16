@@ -133,11 +133,17 @@
     "isNew": "FALSE",
     "description": "Main language for Desktop App"
   },{
-    "name": ".NET",
+    "name": ".NET 4.x",
     "ring": "adopt",
     "quadrant": "Languages & Frameworks",
     "isNew": "FALSE",
-    "description": "software framework for C#"
+    "description": "software framework for C# and Precise (Local software)"
+  },{
+    "name": ".NET 2.x and 3.x",
+    "ring": "hold",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "FALSE",
+    "description": "software framework for C# and SMART (Local software)"
   },{
     "name": "Laravel Lumen",
     "ring": "hold",
