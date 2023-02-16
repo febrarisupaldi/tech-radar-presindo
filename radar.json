@@ -21,7 +21,7 @@
     "description": "for control version and code management"
   },
   {
-    "name": "Java",
+    "name": "Java 8",
     "ring": "trial",
     "quadrant": "Languages & Frameworks",
     "isNew": "False",
