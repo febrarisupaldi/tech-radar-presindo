@@ -21,6 +21,13 @@
     "description": "for control version and code management"
   },
   {
+    "name": "Java",
+    "ring": "trial",
+    "quadrant": "Languages & Frameworks",
+    "isNew": "False",
+    "description": "main language for android software"
+  },
+  {
     "name": "MySQL 5",
     "ring": "adopt",
     "quadrant": "Datastore",
@@ -131,11 +138,5 @@
     "quadrant": "Languages & Frameworks",
     "isNew": "FALSE",
     "description": "software framework for C#"
-  },{
-    "name": "Java",
-    "ring": "trial",
-    "quadrant": "Languages & Frameworks",
-    "isNew": "False",
-    "description": "main language for android software"
   }
 ]
